@@ -1,0 +1,7 @@
+﻿  contact.c
+E:\code\2023\class106\通讯录\Contact\Contact\contact.c(36,9): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+E:\code\2023\class106\通讯录\Contact\Contact\contact.c(78,11): warning C4098: “DelContact”:“void”函数返回值
+E:\code\2023\class106\通讯录\Contact\Contact\contact.c(103,10): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+  test.c
+  正在生成代码...
+  Contact.vcxproj -> E:\code\2023\class106\通讯录\Contact\Debug\Contact.exe
